@@ -5,6 +5,8 @@ MongoDB xAPI Storage Driver
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/php-xapi/xapi-mongodb-storage/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/php-xapi/xapi-mongodb-storage/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/php-xapi/xapi-mongodb-storage/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/php-xapi/xapi-mongodb-storage/?branch=master)
 
+> **CAUTION**: This package is not maintained anymore. Please use [php-xapi/repository-mongodb](https://github.com/php-xapi/repository-mongodb) instead which provides the same features.
+
 MongoDB driver implementation of an [xAPI storage](https://github.com/php-xapi/xapi-storage-api/).
 
 Installation
